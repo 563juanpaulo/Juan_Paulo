@@ -1,4 +1,4 @@
-# Ola Eu sou Juan Paulo
+# Ola! Eu sou Juan Paulo
 
 -📚Atualmente estou cursando como front-end
 
